@@ -1,5 +1,7 @@
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        int age = 200;
+        short a = 0x4;
+        
     }
 }
